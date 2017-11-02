@@ -1,4 +1,4 @@
-# ASP.NET-Demo
+# ASP.NET App - MovieStore
 Build ASP.NET MVC on IBM Cloud
 
 
