@@ -15,7 +15,7 @@ Build ASP.NET MVC on IBM Cloud
 1. Clone the Project : 
 `$ git clone https://github.com/Rashid-j/MovieStore.git`
 
-2. Navigate to Folder: `Models`
+2. Navigate to Folder: `../MovieStore/Models`
 3. Open `Movie.cs` in you favorite editor
 
 4. Add the following attributes for `Movie` object
@@ -45,7 +45,7 @@ Build ASP.NET MVC on IBM Cloud
 
 ## Step 2
 
-1. Navigate to Folder: `Controllers`
+1. Navigate to Folder: `../MovieStore/Controllers`
 2. Open `HomeController.cs` in you favorite editor
 
 3. Load the data stream from the variable `url`
@@ -70,7 +70,7 @@ Build ASP.NET MVC on IBM Cloud
 ## Step 3
 
 1. Open PowerShell or Terminal
-2. Navigate the main project directory
+2. Navigate the main project directory `../MovieStore`
 3. Type in the CLI [Command-Line Interface], and follow by your credential
 ```
   $ bx login 
