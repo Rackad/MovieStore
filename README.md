@@ -13,7 +13,7 @@ Build ASP.NET MVC on IBM Cloud
 ## Step 1
 
 1. Clone the Project : 
-`$ git clone <url>`
+`$ git clone https://github.com/Rashid-j/MovieStore.git`
 
 2. Navigate to Folder: `Models`
 3. Open `Movie.cs` in you favorite editor
