@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore", "MovieStore\MovieStore.csproj", "{077FFC4C-CF35-485A-913C-47B6BAE3012B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077FFC4C-CF35-485A-913C-47B6BAE3012B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077FFC4C-CF35-485A-913C-47B6BAE3012B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077FFC4C-CF35-485A-913C-47B6BAE3012B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077FFC4C-CF35-485A-913C-47B6BAE3012B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

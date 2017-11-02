@@ -1,0 +1,21 @@
+/Users/Makaveli/Projects/MovieStore/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.deps.json
+/Users/Makaveli/Projects/MovieStore/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.runtimeconfig.json
+/Users/Makaveli/Projects/MovieStore/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.runtimeconfig.dev.json
+/Users/Makaveli/Projects/MovieStore/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.dll
+/Users/Makaveli/Projects/MovieStore/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.pdb
+/Users/Makaveli/Projects/MovieStore/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.csproj.CoreCompileInputs.cache
+/Users/Makaveli/Projects/MovieStore/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.AssemblyInfoInputs.cache
+/Users/Makaveli/Projects/MovieStore/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.AssemblyInfo.cs
+/Users/Makaveli/Projects/MovieStore/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.dll
+/Users/Makaveli/Projects/MovieStore/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.pdb
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.deps.json
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.runtimeconfig.json
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.runtimeconfig.dev.json
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.dll
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/bin/Debug/netcoreapp2.0/MovieStore.pdb
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.csprojResolveAssemblyReference.cache
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.csproj.CoreCompileInputs.cache
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.AssemblyInfoInputs.cache
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.AssemblyInfo.cs
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.dll
+/Users/Makaveli/IBM/DevEx Team/Concept/Demos/ASP.NET/Movies - Demo/MovieStore/obj/Debug/netcoreapp2.0/MovieStore.pdb

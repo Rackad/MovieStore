@@ -1,0 +1,36 @@
+﻿@model IList<MovieStore.Models.Movie>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="container">
+      <div class="row">
+        <table class="table">
+          <thead class="thead-dark">
+                    <tr>
+                          <th scope="col">#</th>
+                          <th scope="col">Title</th>
+                          <th scope="col">Year</th>
+                          <th scope="col">Watch</th>
+                    </tr>
+          </thead>
+          <tbody>
+               @{int index = 1;}
+               @foreach( var movie in Model ){
+                    <tr>
+                        <th scope="row">@index</th>
+                          <td>@movie.title</td>
+                          <td>@movie.year</td>
+                          <td>
+                                <a class="btn btn-warning" href="http://www.imdb.com/title/@movie.id" target="_blank">
+                                    <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                </a>    
+                          </td>  
+                        </tr> index++;
+                }
+          </tbody>
+        </table>
+
+        </div>
+   </div>
