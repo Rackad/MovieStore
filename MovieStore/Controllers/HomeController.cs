@@ -16,13 +16,13 @@ namespace MovieStore.Controllers
             var url = "https://raw.githubusercontent.com/bantic/imdb-data-scraping/master/data/movies.json";
 
             // load data
-            var json = new WebClient().DownloadString(url);
+            var json;
 
             // desrialize JSON to .NET Object
-            dynamic obj = JsonConvert.DeserializeObject(json);
+            dynamic obj;
 
             // populate the model
-            Movies movies = new Movies(obj);
+            Movies movies;
 
             return View(movies.list.ToList());
         }
